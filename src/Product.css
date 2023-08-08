@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&family=Righteous&display=swap');
+*{
+    margin:0;
+    padding:0;
+
+  }
+  .laptoplady{
+   height:350px;
+   position: relative;
+   top:-19px;
+   left:310px;
+  }
+  .seventhmaindiv{
+    display: flex;
+  
+  }
+  .twospecs{
+    position: relative;
+    top:100px;
+  }
+  .harm{
+    font-size: 25px;
+    position: relative;
+    top:32px;
+    left:70px;
+    color: #9d837d;
+  }
+  .blue{
+    /* font-weight: bold; */
+    position: relative;
+    top:132px;
+    left:70px;
+    font-size: 25px;
+    color: #585A5F;
+  }
+  .shopnowthree{
+    padding:15px 20px;
+    border: none;
+    border-color: black;
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 70px;
+    position: relative;
+    top: 170px;
+  }
+  .type{
+    text-align: center;
+    
+  }
+  .ninthmaindiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+  }
+  .ninthsubdivone{
+height:150px;
+
+  }
+
+  .computer{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .subdivision{
+    width:30%;
+    margin-bottom: 30px;
+
+  }
+  .thirdsubdivtwocopy{
+    height:493px;
+    width:400px;
+    background-color: #a9b0b992;
+    border-radius: 20px;
+  }
+  .sunglass{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .pow{
+margin-left:100px;
+margin-top: 30px;
+font-size: 62px;
+font-weight: 700;
+  }
+  .sung{
+    height: 140px;
+    position: relative;
+    left:160px;
+    top:-40px;
+  }
+  .true{
+    margin-left: 150px;
+    color:#9d837d;
+    font-size: 20px;
+    position: relative;
+    top:-40px;
+    
+  }
+  .in{
+    margin-left: 130px;
+    color:#585A5F;
+    font-size: 20px;
+    position: relative;
+    top:-40px;
+    
+  }
+  .mainfooter1{
+    display: flex;
+   justify-content: space-between;
+    padding: 20px 0px 40px 0px;
+    width: 100%;
+    margin: auto;
+    background-color: #e6e6e6;
+    position: relative;
+    top:-104px;
+    margin-top: 141px;
+  
+    
+  }

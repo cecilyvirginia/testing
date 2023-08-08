@@ -1,0 +1,622 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&family=Righteous&display=swap');
+*{
+    margin:0;
+    padding:0;
+
+  }
+  
+  .firstmaindiv{
+    display: flex;
+    
+  
+        color:black;
+        font-weight: bold;
+        height:550px;
+        background-color: #a9b0b992;
+      
+      
+  }
+
+  .personalised{
+    margin-top: 80px;
+    font-size: 58px;
+    margin-left: 88px;
+
+    
+  }
+  .virtual{
+margin-top: 20PX;
+    margin-left: 88px;
+    color: #585A5F;
+    
+  }
+  .black{
+    padding:15px 20px;
+    border: none;
+    border-color: black;
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 88px;
+    margin-top: 20px;
+  }
+  .banner{
+    margin-top: 0px;
+    height:550px;
+    position: relative;
+    left: 137px;
+
+  }
+  .see{
+    position: relative;
+    left:240px;
+    top:-46px;
+  }
+  .banspec{
+    height:100px;
+    position: relative;
+    left: 80px;
+    top:-12px;
+  }
+  .secondmaindiv{
+    display: flex;
+  }
+  .secondsubdivone{
+    font-size: 49px;
+    font-weight: bold;
+    margin-left:250px;
+    margin-top: 55px;
+    margin-right: 90px;
+  }
+  .weinvent{
+    margin-top: 70px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #585A5F;
+  }
+  .arrow{
+    height:15px;
+    position: relative;
+    left:5px;
+    top:2px;
+  }
+  .thirdmaindiv{
+    margin-top: 150px;
+    height:600px;
+    background-color:#a9b0b985 ;
+    
+    
+  }
+  .coolimg{
+    position: relative;
+    top:-90px;
+    left:100px
+  }
+  .look{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -70px;
+  }
+  .opeye{
+    margin-left: 100px;
+    margin-top: 0px; 
+  }
+  .thirdsubdivtwo{
+    height:480px;
+    width:400px;
+    background-color:rgba(255, 255, 255, 0.582);
+    border-radius: 20px;
+    position: relative;
+    top:-420px;
+    left:580px;
+  }
+  .fastrack{
+    height:124px;
+    margin-left:82px;
+  }
+  .brown{
+text-align: center;
+padding-top: 40px;
+padding-bottom: 10px;
+  }
+  .solid{
+    text-align: center;
+
+  }
+  .eight{
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  .frame{
+    text-align: center;
+    padding-left: 20px;
+    text-decoration: underline;
+  }
+  .check{
+padding:10px 15px;
+border: none;
+font-weight: bold;
+background-color: #585A5F;
+color:white;
+border-radius: 10px;
+margin-top: 30px;
+margin-left: 150px;
+  }
+  .woman{
+    height:600px;
+    position: relative;
+    top:-988px;
+    left:980px;
+  }
+  .fourthmaindiv{
+    height:500px;
+    background-color: #9d837daf;
+    margin-top: 0px;
+    
+  }
+  .goldcolor{
+    position: relative;
+    top:-262px;
+    left:-150px;
+    height:700px;
+    opacity:0;
+  }
+  .fourthsubdivone{
+    position: relative;
+    top:-702px;
+    left:750px;
+    
+  }
+  .sunglasses{
+    position: relative;
+    font-size: 49px;
+    margin-bottom: 20px;
+    
+  }
+  .protect{
+    color: #585A5F;
+    margin-bottom: 10px;
+  }
+  .shopnow{
+    margin-top: 10px;
+    padding:10px 15px;
+    border: none;
+    background-color:gainsboro;
+    color:black;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+  .fourthsubdivtwo{
+margin-top: -700px;
+text-align: center;
+
+  }
+  .pris{
+    
+        position: relative;
+    padding-top: 40px;
+        font-size: 49px;
+        margin-bottom: 20px;
+        color:black;
+        left:-274px;
+       
+  }
+  .correct{
+font-weight: bold;
+margin-right: 150px;
+text-decoration: underline;
+margin-left: -553px;
+  }
+  .sun{
+    font-weight: bold;
+    margin-right: 150px;
+  }
+  .opt{
+    font-weight: bold;
+  
+    
+  }
+  .need{
+    margin-bottom: 50px;
+  }
+  .ifyou{
+    color: #585A5F;
+    margin-bottom: 10px;
+    margin-left: -542px;
+  }
+  .goldcolorone{
+    position: relative;
+    top:-350px;
+    left:520px;
+    height:500px
+  }
+  .fifthmaindiv{
+    height:600px;
+    background-color: #a9b0b9d3;
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .fifthsubdivone{
+    width:20%;
+    height:470px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    top:-100px;
+  }
+  .fifthsubdivtwo{
+    width:20%;
+    height:570px;
+    background-color: white; 
+    height:470px;
+    border-radius: 20px;
+    position: relative;
+    top:-100px;
+  }
+  .fifthsubdivthree{
+    width:20%;
+    height:570px;
+    background-color: white;
+    height:470px;
+    border-radius: 20px;
+    position: relative;
+    top:-100px;
+  }
+  .fifthsubdivfour{
+    width:20%;
+    height:570px;
+    background-color: white;
+    height:470px;
+    border-radius: 20px;
+    position: relative;
+    top:-100px;
+  }
+  
+  .silver{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+  }
+  .stainless{
+text-align: center;
+  }
+  .five{
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .lens{
+    padding:10px 15px;
+    border: none;
+    font-weight: bold;
+    background-color: #585A5F;
+    color:white;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 90px;
+  }
+  .frameone{
+  text-align: center;
+    padding-left: 20px;
+    text-decoration: underline;
+  }
+  .glassone{
+    height:150px;
+    margin-left: 30px;
+  }
+  .glasstwo{
+    height:150px;
+    margin-left: 30px;
+  }
+  .glassthree{
+    height:90px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .glassfour{
+    height:150px;
+    margin-left: 40px;
+  }
+  .need{
+    margin-top: 40px;
+  }
+  .fifthmaindivtwo{
+    height:400px;
+    width:1000px;
+    background-color: #9d837d;
+    margin: auto;
+    border-radius: 50px;
+    position: relative;
+    top:-190px;
+    display: flex;
+    color:white;
+  }
+
+.mantwo{
+    height: 400px;
+    position: relative;
+    left:-80px;
+}
+.fifthsubdivfive{
+    text-align: center;
+    margin: auto;
+}
+.trend{
+    font-size: 49px;
+    position: relative;
+    left:100px;
+    margin-bottom: 10px;
+}
+.fifty{
+    font-size: 59px;
+    color:white;
+   
+}
+.trendtwo{
+  position: relative;
+  left:100px;
+  margin-bottom: 10px;
+}
+.trendone{
+  position: relative;
+  left:100px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+.trendthree{
+  position: relative;
+  left:100px;
+  margin-bottom: 10px;
+}
+.trendfour{
+  position: relative;
+  left:100px;
+  margin-bottom: 10px;
+}
+.shopnowone{
+  margin-top: 10px;
+  padding:10px 15px;
+  border: none;
+  background-color: white;
+  color:black;
+  font-weight: bold;
+  border-radius: 10px;
+  position: relative;
+  left:100px;
+  margin-bottom: 10px;
+}
+.sixthmaindiv{
+  display: flex;
+  width:100%;
+  height:278px;
+  justify-content: space-around;
+  margin-top:30px;
+ 
+}
+.sixthsubdivone{
+  height:239px;
+  width:30%;
+  background-color: white;
+  margin-top: 20px;
+  border:0.5px solid#d2d2d2;
+}
+.sixthsubdivtwo{
+  height:239px;
+  width:30%;
+  background-color: white;
+  margin-top: 20px;
+  border:0.5px solid#d2d2d2;
+}
+.sixthsubdivthree{
+  height:239px;
+  width:30%;
+  background-color: white;
+  margin-top: 20px;
+  border:0.5px solid#d2d2d2;
+ 
+}
+.clientglass{
+  height:50px;
+  margin-left: 193px;
+  position: relative;
+  top:-16px
+}
+.test{
+  position: relative;
+  margin-top:-150px;
+  text-align: center;
+
+}
+.alan{
+  text-align: center;
+  margin-bottom: 10px;
+  padding-top:26px ;
+}
+.client{
+  text-align: center;
+}
+.looking{
+  margin-left: 50px;
+  color: #585A5F;
+  
+}
+.nomore{
+  font-size: 49px;
+  
+}
+.overflow{
+  overflow: hidden;
+}
+.faq{
+  text-align: center;
+  margin-top: -150px;
+  margin-bottom: 30px;
+}
+.color{
+background-color: #9d837d !important;
+}
+.clarity{
+  height: 530px;
+  position: relative;
+left:-302px;
+
+}
+.eleventhmaindiv{
+  display: flex;
+}
+.perfect{
+  font-size: 49px;
+  margin-top: 40px;
+ 
+  margin-bottom: 20px;
+}
+.eleventhsubdivtwo{
+  position: relative;
+  top: 50px;
+  margin-left: -150px;
+}
+.normal{
+  font-size: 18px;
+  color: #585A5F;
+}
+.now{
+text-decoration: underline;
+font-weight: bold;
+}
+
+
+
+
+footer{
+  background-color:#9d837d;;
+  color: white;
+  margin-top: 40px;
+}
+.mainfooterone{
+  display: flex;
+ justify-content: space-between;
+  padding: 20px 0px 40px 0px;
+  width: 100%;
+  margin: auto;
+  background-color: #e6e6e6;
+  position: relative;
+  top:40px;
+
+  
+}
+.subfooterone{
+  width: 50%;
+}
+.subfootertwo{
+  width:40%;
+}
+  .joinour{
+      font-size: 24px;
+      margin-left: 26px;
+      font-family: 'inter';
+      color:#585A5F;
+      position: relative;
+      top:15px;
+  }
+  .email{
+      border: none;
+      padding:10px 10px;
+      border-radius: 5px;
+      border:1px solid rgba(0, 0, 0, 0.308);
+      margin-right: 30px;
+      font-family: 'inter';
+      width:250px;  
+      background-color: none;
+      position: relative;
+      top:10px;
+      }
+
+  ::placeholder{
+      color:#585A5F;
+      font-family: 'inter';
+      
+  }
+  .subscripe{
+      padding: 10px 15px;
+  margin-left: 20px;
+  color:white;
+  border-radius: 5px;
+  font-family: 'inter';
+  border:none;
+  font-weight: bold;
+  background-color: #585A5F;
+  position: relative;
+      top:10px;
+  }
+  
+  .mainfootertwo{
+      display: flex;
+      justify-content: space-around;
+      padding-bottom: 2px;
+      padding-top: 20px;
+  }
+  .cou{
+      
+      color:white;
+      margin-bottom: 20px;
+      
+  }
+
+  .copysubfooterone{
+width: 25%;
+  }
+  .copysubfootertwo{
+      width: 20%;
+  }
+  .copysubfooterfour{
+      width: 20%;
+  }
+  .copysubfooterthree{
+      width: 20%;
+  }
+  .amet{
+      margin-bottom: 25px;
+      font-family: 'inter';
+  }
+
+  .headigs{
+      font-size: 20px;
+      margin-bottom: 20px;
+      margin-left: 40px;
+      font-family: 'inter';
+      font-weight: bold;
+  }
+  .list{
+      list-style-type: none;
+  }
+  .copyright{
+      padding: 20px 0px;
+      background-color: #EC7A1C;
+      color: white;
+      font-family: 'inter';
+  }
+  .allright{
+      text-align: center;
+      font-size:20px;
+      font-family: 'inter';
+  }
+  li{
+      margin-left: 40px;
+      font-family: 'inter';
+  
+  }
+  .list{
+      margin-bottom: 20px;
+      margin-left: 10px;
+  }
+  @media screen and (max-width:412px){
+      body{
+          width:1500px
+      }
+      
+  
+  }

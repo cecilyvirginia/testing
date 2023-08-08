@@ -1,0 +1,151 @@
+*{
+    margin:0;
+    padding:0;
+
+  }
+  .bluelit{
+    
+    margin-left: 500px;
+  }
+  .tenthmaindiv{
+    height:250px;
+   /* background-color: #a9b0b992; */
+   border: none;
+   
+  
+
+  }
+  .overflow{
+    overflow: hidden;
+  }
+  .tenthsubdivone{
+    height:200px;
+    width: 50%;
+    margin: auto;
+    border:none;
+    
+    background-color:#a9b0b958;;
+   position: relative;
+   top:24px;
+   display: flex;
+  }
+  .paytm{
+    height:60px;
+    position: relative;
+    top:70px;
+    left:70px
+  }
+  .flash{
+    position: relative;
+    top:50px;
+    left:150px;
+  }
+  .on{
+    position: relative;
+    top:50px;
+    left:150px;
+  }
+  .coup{
+    background-color: #a9b0b958;
+    height: 40px;
+    
+  }
+  .coupone{
+   height: 30px;
+   margin-left: 50px;
+   margin-top: 5px;
+  }
+  .apply{
+    position: relative;
+   
+    left:100px;
+    top:10px
+  }
+  .applyarrow{
+    height:15px;
+    position: relative;
+    left:1350px;
+    top:-30px;
+  }
+  .subdivision{
+    margin:auto;
+    margin-bottom: 20px;
+  }
+  .remove{
+    
+        padding:5px 20px;
+        border: none;
+        border-color: black;
+        color:white;
+        background-color: rgba(0, 0, 0, 0.303);
+        border-radius: 10px;
+        font-weight: bold;
+        margin-left: 111px;
+        margin-top: 20px;
+        margin-right: 10px;
+      }
+      .minus{
+    
+        padding:5px 10px;
+        border: none;
+        border-color: black;
+        color:white;
+        background-color: rgba(0, 0, 0, 0.303);
+    
+        font-weight: bold;
+      
+        margin-top: 20px;
+      }
+    
+  .plus{
+    
+    padding:5px 10px;
+        border: none;
+        border-color: black;
+        color:white;
+        background-color: rgba(0, 0, 0, 0.303);
+       
+        font-weight: bold;
+        position: relative;
+        
+        margin-top: 20px;
+      }
+      .sub{
+        margin-left: 170px;
+        margin-top: 10px;
+        background-color: rgba(0, 0, 0, 0.303)!important;
+        border:none;
+      }
+  .close{
+    background-color: #585A5F !important;
+    border: none;
+  }
+  .details{
+    margin-left:0px;
+    color:#fe2c54;
+  }
+  .move{
+    margin-left: 1100px;
+  }
+  .place{
+    background-color: #fe2c54;
+    border: none;
+    padding:10px 50px;
+    color:white;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+
+  .mainfooter2{
+    display: flex;
+   justify-content: space-between;
+    padding: 20px 0px 40px 0px;
+    width: 100%;
+    margin: auto;
+    background-color: #e6e6e6;
+    position: relative;
+    top:-104px;
+    margin-top: 141px;
+  
+    
+  }

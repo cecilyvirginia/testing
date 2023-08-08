@@ -1,0 +1,50 @@
+*{
+  margin:0;
+  padding:0;
+}
+.optical{
+  margin-top: 0px;
+  margin-left: 100px;
+  position: relative;
+  top:17px;
+  color:black;
+  font-weight: bold;
+}
+.home{
+margin-left: 960px;
+color:black;
+  font-weight: bold;
+  top:-24px;
+  position: relative;
+  text-decoration: none;
+
+}
+.product {
+  position: relative;
+  left: 150px;
+  top:-24px;
+  color:black;
+  font-weight: bold;
+  text-decoration: none;
+}
+.cart {
+  position: relative;
+  left: 320px;
+  top:-24px;
+height:10px;
+  font-weight: bold;
+  color:black;
+
+}
+.mainheader{
+  height:71px;
+  background-color: #a9b0b925;
+}
+.fw{
+  width:90%;
+  margin: auto;
+}
+.zero{
+  position: relative;
+  top:1.5px;
+}
